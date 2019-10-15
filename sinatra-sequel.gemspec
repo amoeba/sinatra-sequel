@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
 
   s.name = 'sinatra-sequel'
-  s.version = '0.9.0'
+  s.version = '0.9.1'
   s.date = '2009-08-08'
 
   s.description = "Extends Sinatra with Sequel ORM config, migrations, and helpers"
